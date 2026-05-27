@@ -167,7 +167,7 @@ This project demonstrates:
 
 ## Dashboard Preview
 
-(Add Power BI screenshots here)
+![Dashboard](Images/Dashboard.png)
 
 ---
 
@@ -188,7 +188,7 @@ This project demonstrates:
 
 ---
 
-## ⭐ Conclusion
+## Conclusion
 
 This project demonstrates an end-to-end analytics pipeline similar to real-world e-commerce companies like Amazon, Flipkart, and Swiggy.
 
